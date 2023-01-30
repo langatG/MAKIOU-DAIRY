@@ -1,0 +1,16 @@
+Line 110: Class MSComctlLib.ListView of control lvwTransportassign was not a loaded control class.
+Line 195: Class MSComCtl2.DTPicker of control DTPDRemoved was not a loaded control class.
+Line 116: The property name _ExtentX in lvwTransportassign is invalid.
+Line 117: The property name _ExtentY in lvwTransportassign is invalid.
+Line 118: The property name View in lvwTransportassign is invalid.
+Line 119: The property name LabelWrap in lvwTransportassign is invalid.
+Line 120: The property name HideSelection in lvwTransportassign is invalid.
+Line 121: The property name FullRowSelect in lvwTransportassign is invalid.
+Line 122: The property name GridLines in lvwTransportassign is invalid.
+Line 123: The property name _Version in lvwTransportassign is invalid.
+Line 127: The property name NumItems in lvwTransportassign is invalid.
+Line 201: The property name _ExtentX in DTPDRemoved is invalid.
+Line 202: The property name _ExtentY in DTPDRemoved is invalid.
+Line 203: The property name _Version in DTPDRemoved is invalid.
+Line 204: The property name Format in DTPDRemoved is invalid.
+Line 205: The property name CurrentDate in DTPDRemoved is invalid.

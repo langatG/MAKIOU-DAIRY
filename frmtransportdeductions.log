@@ -1,0 +1,18 @@
+Line 113: Class MSComCtl2.DTPicker of control DTPEndDate was not a loaded control class.
+Line 126: Class MSComCtl2.DTPicker of control DTPStartDate was not a loaded control class.
+Line 139: Class MSComCtl2.DTPicker of control DTPDDate was not a loaded control class.
+Line 119: The property name _ExtentX in DTPEndDate is invalid.
+Line 120: The property name _ExtentY in DTPEndDate is invalid.
+Line 121: The property name _Version in DTPEndDate is invalid.
+Line 123: The property name Format in DTPEndDate is invalid.
+Line 124: The property name CurrentDate in DTPEndDate is invalid.
+Line 132: The property name _ExtentX in DTPStartDate is invalid.
+Line 133: The property name _ExtentY in DTPStartDate is invalid.
+Line 134: The property name _Version in DTPStartDate is invalid.
+Line 136: The property name Format in DTPStartDate is invalid.
+Line 137: The property name CurrentDate in DTPStartDate is invalid.
+Line 145: The property name _ExtentX in DTPDDate is invalid.
+Line 146: The property name _ExtentY in DTPDDate is invalid.
+Line 147: The property name _Version in DTPDDate is invalid.
+Line 148: The property name Format in DTPDDate is invalid.
+Line 149: The property name CurrentDate in DTPDDate is invalid.
